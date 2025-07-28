@@ -1,0 +1,2 @@
+# ft-people
+Learn peoples
